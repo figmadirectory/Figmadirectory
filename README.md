@@ -1,6 +1,6 @@
 # 🎨 Figma Directory
 
-**👉 [Open Figma Directory →](https://kalyantt-mis.github.io/figma-directory)**
+**👉 [Open Figma Directory →](https://https://figmadirectory.github.io/Figmadirectory/)**
 
 A searchable, live index of all MoveInSync Figma files. Search by file name, feature, page, or screen. Click to jump directly to any frame in Figma.
 
