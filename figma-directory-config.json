@@ -1,0 +1,211 @@
+{
+  "version": 1,
+  "savedAt": "2026-10-01T11:17:29.674Z",
+  "labels": [
+    "for internal use",
+    "section-titles",
+    "section-titles-lg",
+    "sub section header",
+    "page-titles"
+  ],
+  "excludes": [
+    "graveyard",
+    "experiments",
+    "earlier versions",
+    "inspiration",
+    "sandbox",
+    "archive",
+    "deprecated"
+  ],
+  "files": [
+    {
+      "id": "NQalRA0oT0QSC7IO52PFMq",
+      "name": "Stratus-Configuration",
+      "link": "https://www.figma.com/design/NQalRA0oT0QSC7IO52PFMq/Stratus-Configuration?node-id=6805-32704&t=F2FiUY6lJxPRFOlE-1",
+      "projectName": "Stratus",
+      "module": "Stratus"
+    },
+    {
+      "id": "LWosWNUgdH4k0tr1gQOeH7",
+      "name": "Visitor Management- Self Check in",
+      "link": "https://www.figma.com/design/LWosWNUgdH4k0tr1gQOeH7/Visitor-Management--Self-Check-in?node-id=6682-12615&t=k08GuT3AWIVSRU1h-1",
+      "projectName": "VM - Self Checkin",
+      "module": "Visitor Management"
+    },
+    {
+      "id": "6FgYksVDfgJyA5XEoAep5j",
+      "name": "Bookings",
+      "link": "https://www.figma.com/design/6FgYksVDfgJyA5XEoAep5j/Bookings?node-id=22646-115866&t=AHt9yp2kOGPDccWW-1",
+      "projectName": "Bookings (Home)",
+      "module": "Employee"
+    },
+    {
+      "id": "pwk14yJCNB7KEDBfx2VC18",
+      "name": "Tags - CRUD",
+      "link": "https://www.figma.com/design/pwk14yJCNB7KEDBfx2VC18/Tags---CRUD?node-id=1845-10824&t=cCmG6qJZNng5qEs1-1",
+      "projectName": "Tags - CRUD",
+      "module": "Admin & Analytics"
+    },
+    {
+      "id": "0NLKkDQ48GlBvoj7ajUvs8",
+      "name": "Desk Management",
+      "link": "https://www.figma.com/design/0NLKkDQ48GlBvoj7ajUvs8/Desk-Management?node-id=8671-316503&t=rkD1fnvogiXn8vef-1",
+      "projectName": "Desk Management - Admin",
+      "module": "Admin & Analytics"
+    },
+    {
+      "id": "qtYzmp6fRe4ftkvyXP6Jfa",
+      "name": "Admin-Work Planner",
+      "link": "https://www.figma.com/design/qtYzmp6fRe4ftkvyXP6Jfa/Admin-Work-Planner?node-id=7036-337071&t=wKqF63FbuGD5y54Q-1",
+      "projectName": "Work Planner - Admin",
+      "module": "Admin & Analytics"
+    },
+    {
+      "id": "d8M8M6JI7zWrW3Vc3KpYuj",
+      "name": "Admin dashboard - WIS",
+      "link": "https://www.figma.com/design/d8M8M6JI7zWrW3Vc3KpYuj/Admin-dashboard---WIS?node-id=1494-41397&t=QTrOqXwNOoSkFhOD-1",
+      "projectName": "Dashboard - Admin",
+      "module": "Admin & Analytics"
+    },
+    {
+      "id": "GNhUtLslLmNGsaiuSrrPtl",
+      "name": "Leave Disclosure",
+      "link": "https://www.figma.com/design/GNhUtLslLmNGsaiuSrrPtl/Leave-Disclosure?node-id=0-1&t=nvmoykvVcYVrDNXF-1",
+      "projectName": "Leave Disclosure",
+      "module": "Employee"
+    },
+    {
+      "id": "2TcESUbwsQilAgYuZwsiv7",
+      "name": "Employee experience",
+      "link": "https://www.figma.com/design/2TcESUbwsQilAgYuZwsiv7/Employee-experience?node-id=1466-100949&t=EEmCHQEch7Ry5Hqg-1",
+      "projectName": "Untagged",
+      "module": "Employee"
+    },
+    {
+      "id": "KSI9qUFiNlzl9AC6Iunk8Z",
+      "name": "Meeting & Meeting Rooms",
+      "link": "https://www.figma.com/design/KSI9qUFiNlzl9AC6Iunk8Z/Meeting---Meeting-Rooms?node-id=15365-138173&t=iD3Mge3tKhWH4DYy-1",
+      "projectName": "Meeting Room",
+      "module": "Employee"
+    },
+    {
+      "id": "RyznriqjlcWXiJe9jlgHRL",
+      "name": "Meeting rooms V2",
+      "link": "https://www.figma.com/design/RyznriqjlcWXiJe9jlgHRL/Meeting-rooms-V2?node-id=0-1&t=TwxeWOnLLg19pOtF-1",
+      "projectName": "Meeting Room",
+      "module": "Employee"
+    },
+    {
+      "id": "s4Y5yssDNwbenfU6WNE3qt",
+      "name": "Meeting Rooms",
+      "link": "https://www.figma.com/design/s4Y5yssDNwbenfU6WNE3qt/Meeting-Rooms?node-id=0-1&t=WBCUcrpkUj8LkwMF-1",
+      "projectName": "Meeting Room",
+      "module": "Admin & Analytics"
+    },
+    {
+      "id": "qVRgpvcZHEmCdE2IKJqvqb",
+      "name": "Kiosk - Meeting rooms",
+      "link": "https://www.figma.com/design/qVRgpvcZHEmCdE2IKJqvqb/Kiosk---Meeting-rooms?node-id=5605-160190&t=P9KMoTqhUHAaTZbE-1",
+      "projectName": "Meeting Room - Kiosk",
+      "module": "Admin & Analytics"
+    },
+    {
+      "id": "nxvQv2W2fho62VF9qnQVRY",
+      "name": "Meeting Room App",
+      "link": "https://www.figma.com/design/nxvQv2W2fho62VF9qnQVRY/Meeting-Room-App?node-id=196-45772&t=i7zjetC7cZ4S6Jye-1",
+      "projectName": "Meeting Room App",
+      "module": "Mobile App"
+    },
+    {
+      "id": "fCZKv6zvpTlvUWLyl7ZM8y",
+      "name": "Visitor Management - Admin",
+      "link": "https://www.figma.com/design/fCZKv6zvpTlvUWLyl7ZM8y/Visitor-Management---Admin?node-id=7428-343370&t=xW601vON0SWAsSZe-1",
+      "projectName": "VM - Admin Front Desk",
+      "module": "Visitor Management"
+    },
+    {
+      "id": "EfaWNaNGp8PQZGIObVOpEa",
+      "name": "VM - Employee+visitor",
+      "link": "https://www.figma.com/design/EfaWNaNGp8PQZGIObVOpEa/VM---Employee-visitor?node-id=123-103722&t=NUtIUiMizs9XJfdk-1",
+      "projectName": "VM - Employee+Visitor",
+      "module": "Visitor Management"
+    },
+    {
+      "id": "WeJg9vdrUcWEPjcIWLr3uz",
+      "name": "Catering Dashboard",
+      "link": "https://www.figma.com/design/WeJg9vdrUcWEPjcIWLr3uz/Catering-Dashboard?node-id=5555-104983&t=ShyVRFtNm1tsWilS-1",
+      "projectName": "Catering + Vendor Dashboard",
+      "module": "Cafeteria"
+    },
+    {
+      "id": "vIYoRTMWvHmWEV1OkD58Xk",
+      "name": "People",
+      "link": "https://www.figma.com/design/vIYoRTMWvHmWEV1OkD58Xk/People?node-id=0-1&t=W3oaVtE0H9yA58Ah-1",
+      "projectName": "People + Hierarchies",
+      "module": "Admin & Analytics"
+    },
+    {
+      "id": "l44HHOcHpJKxAowU5MLcy1",
+      "name": "Audit",
+      "link": "https://www.figma.com/design/l44HHOcHpJKxAowU5MLcy1/Audit?node-id=612-83202&t=RLy3BGN8aIyj3wJn-1",
+      "projectName": "Audit",
+      "module": "Admin & Analytics"
+    },
+    {
+      "id": "enQdgqx1lMlwJjySWRNUas",
+      "name": "Desk Forecasting",
+      "link": "https://www.figma.com/design/enQdgqx1lMlwJjySWRNUas/Desk-Forecasting?node-id=0-1&t=VRxrLm1Yax7q1k9F-1",
+      "projectName": "Desk Forecasting",
+      "module": "Admin & Analytics"
+    },
+    {
+      "id": "bPMdTmkYh6UrVNc7nM9Q7O",
+      "name": "WIS 2.0",
+      "link": "https://www.figma.com/design/bPMdTmkYh6UrVNc7nM9Q7O/WIS-2.0?node-id=5953-104834&t=G6Fl9NduFP003CFD-1",
+      "projectName": "WIS 2.0 Minimal changes",
+      "module": "Mobile App"
+    },
+    {
+      "id": "wW9tiB9HEQjvzpoS1eX9lg",
+      "name": "WIS",
+      "link": "https://www.figma.com/design/wW9tiB9HEQjvzpoS1eX9lg/WIS?node-id=12439-68896&t=s0a725XRSaB5rzpL-1",
+      "projectName": "WIS app",
+      "module": "Mobile App"
+    },
+    {
+      "id": "y6jN8VxCBnwzGe8fJOeuVz",
+      "name": "Team Calendar",
+      "link": "https://www.figma.com/design/y6jN8VxCBnwzGe8fJOeuVz/Team-Calendar?node-id=0-1&t=62tcDvWVkmB2uq0a-1",
+      "projectName": "Team Calendar",
+      "module": "Desk Booking"
+    },
+    {
+      "id": "RL2BxO9v5JGPDaweWavbZT",
+      "name": "Hybrid intelligence platform",
+      "link": "https://www.figma.com/design/RL2BxO9v5JGPDaweWavbZT/Hybrid-intelligence-platform?node-id=0-1&t=NoUz8VtCXno9ibSa-1",
+      "projectName": "Untagged",
+      "module": "Other"
+    },
+    {
+      "id": "k3F0QX1Mc6BPZsXSVouWPj",
+      "name": "Premises",
+      "link": "https://www.figma.com/design/k3F0QX1Mc6BPZsXSVouWPj/Premises?node-id=0-1&t=t8NoPR1tuKj5ZTiv-1",
+      "projectName": "Untagged",
+      "module": "Other"
+    },
+    {
+      "id": "5mLHH2EBN1grTTM4vP5lsI",
+      "name": "Ticket Management - web",
+      "link": "https://www.figma.com/design/5mLHH2EBN1grTTM4vP5lsI/Ticket-Management---web?node-id=2970-40083&t=lCm0TT5M2GikpOYg-1",
+      "projectName": "Untagged",
+      "module": "Other"
+    },
+    {
+      "id": "I2WoGJOKHEJRRJKWI5tZc3",
+      "name": "Email Templates",
+      "link": "https://www.figma.com/design/I2WoGJOKHEJRRJKWI5tZc3/Email-Templates?node-id=3027-67944&t=1SDce8fC9nDM3BKV-1",
+      "projectName": "Untagged",
+      "module": "Other"
+    }
+  ]
+}
